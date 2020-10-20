@@ -1,2 +1,5 @@
 Django==2.2.13
 djangorestframework==3.9.4
+requests
+django-filter
+djoser
